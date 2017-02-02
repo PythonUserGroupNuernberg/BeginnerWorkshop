@@ -3,7 +3,7 @@
 ## Windows: Installation und erste Schritte
 
 Du kannst dir ```Python``` entweder direkt von der Projektseite *[python.org](https://www.python.org/downloads/)* holen
-oder dir eine fertige Python-Distribution, wie beispielsweise *[Anaconda](https://www.continuum.io/downloads)*.
+oder dir eine fertige Python-Distribution, wie beispielsweise *[Anaconda](https://www.continuum.io/downloads)*, installieren.
 Der Vorteil von Anaconda unter Windows ist, dass bereits so gut wie alle wichtigen Pakete die man irgendwann einmal
 gebrauchen könnte mitgeliefert werden. Vor allem in Bezug auf Bibliotheken wie *numpy*, *scipy* etc. ist die
 Installation via Anaconda unter Windows sehr angenehm. Der Nachteil ist die enorme Größe.
@@ -14,7 +14,7 @@ solltest du die neuste Version (mindestens **Python 3.5**) installieren.
 # The first contact
 
 Da ```Python``` eine interpretierte Sprache ist, kannst du nach der Installation direkt interaktiv in der Konsole loslegen.
-Geh in den Ordner in den du Python installiert (z.B. ```C:\Python27```) hast und doppel-klicke auf ```python.exe```.
+Geh in den Ordner in den du Python installiert hast (z.B. ```C:\Python35```) und doppel-klicke auf ```python.exe```.
 
 ```bash
 Python 3.5.2 (default, Nov 17 2016, 17:05:23)
